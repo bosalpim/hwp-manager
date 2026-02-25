@@ -119,3 +119,7 @@ src/
       hwpx_converter.py  # 파싱 결과 → md / txt
 pyproject.toml
 ```
+
+## License
+
+MIT License. 추후 Private으로 변경 예정입니다.
